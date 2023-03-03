@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int add()
 {
   int a=10,b=20;
   int c;
